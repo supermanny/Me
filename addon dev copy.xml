@@ -21,7 +21,7 @@
   <thumbnail>http://s15.postimg.org/4cq4drg7v/kids.png</thumbnail>
 <fanart>http://s15.postimg.org/4cq4drg7v/kids.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://kodiland.co/kodi/kids.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/supermanny/me/master/kids.xml</externallink>
 </channel>
   </channels>
   
@@ -41,7 +41,7 @@
   
     
 
-<channels>
+
 
 
 
@@ -81,12 +81,13 @@
 </channel>
 </channels>
 
+<channels>
 <channel>
       <name>[COLOR lime]Kodiland IPTV Premium[/COLOR]</name>
   <thumbnail>http://s30.postimg.org/6w9rk6qld/premium.png</thumbnail>
 <fanart>http://s30.postimg.org/6w9rk6qld/premium.png</fanart>
 <link>http://ignoreme</link>
-   <externallink>premium.xml</externallink>
+   <externallink>https://raw.githubusercontent.com/supermanny/me/master/premium.xml</externallink>
 </channel>
 
   </channels>

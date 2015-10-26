@@ -1,0 +1,22 @@
+<item><title>[COLOR deepskyblue]Disney Channel East[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyChannelEastHD/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=DisneyChannelEastHD&amp;cm=196</page><referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie></regex><fanart></fanart></item> 
+
+<item><title>[COLOR deepskyblue]Disney Channel West[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyChannelWestUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=DisneyChannelWestUS&amp;cm=4862</page><referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie></regex><fanart></fanart></item> 
+
+<item><title>[COLOR deepskyblue]Disney JR[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/DisneyJrUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=DisneyJrUS&amp;cm=4852</page></<referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie>regex></item> 
+
+
+
+<item><title>[COLOR deepskyblue]Nickelodeon - English ??[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickelodeonEastUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=NickelodeonEastUS&amp;cm=1701</page><referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie></regex><fanart></fanart></item>    
+
+<item><title>[COLOR deepskyblue]Nick JR[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/NickJrUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=NickJrUS&amp;cm=4872</page><referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie></regex><fanart></fanart></item> 
+
+<item><title>[COLOR deepskyblue]Teen Nick[/COLOR]</title><link>http://lb.iptvserver.tv:8080/redirect/LiveEdge/TeenNickUS/playlist.m3u8?token=$doregex[tok]</link><regex><name>tok</name><expres>token=(.*)</expres><page>http://wcm777.la/mariocs.php?canal=TeenNickUS&amp;cm=4877</page><referer>http://stoker.jdmsociety.x10.mx</referer><setcookie>programa=rosadintv</setcookie></regex><fanart></fanart></item> 
+
+
+
+
+
+
+
+
+
