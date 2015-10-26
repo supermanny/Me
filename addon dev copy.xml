@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]Rugby[/COLOR]</name>
+  <thumbnail>http://s15.postimg.org/sy5c72rjv/rugby.png</thumbnail>
+<fanart>https://sportsgazing.files.wordpress.com/2012/09/rugby_ball-138331.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://kodiland.co/kodi/rugby.xml</externallink>
+</channel>
+  </channels>
+  
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]Kids incl 24/7 kids cartoons[/COLOR]</name>
+  <thumbnail>http://s15.postimg.org/4cq4drg7v/kids.png</thumbnail>
+<fanart>http://s15.postimg.org/4cq4drg7v/kids.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://kodiland.co/kodi/kids.xml</externallink>
+</channel>
+  </channels>
+  
+    
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]24/7 Channels[/COLOR]</name>
+  <thumbnail>http://s1.postimg.org/lib7cmu27/247.png</thumbnail>
+<fanart>http://s1.postimg.org/lib7cmu27/247.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://kodiland.co/kodi/247.xml</externallink>
+</channel>
+  </channels>
+  
+    
+
+<channels>
+
+
+
+    
+<channels>
+
+
+  
+<channel>
+      <name>[COLOR lime]IPTV Sports *new[/COLOR]</name>
+  <thumbnail>http://s14.postimg.org/bl58rl18x/sport.png</thumbnail>
+<fanart>http://s14.postimg.org/bl58rl18x/sport.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>http://pastebin.com/raw.php?i=KbXjjJbs</externallink>
+</channel>
+  </channels>
+
+
+
+<channels>
+<channel>    	
+<name>Movies</name>	
+<thumbnail>http://s24.postimg.org/lsnbek7dx/movies.png</thumbnail>	
+<link>http://ignoreme</link>	
+<externallink>http://kodiland.co/kodi/movies.xml</externallink>	
+<fanart>http://kngt.x10host.com/Lists/Logos/Movies_fanart1.png</fanart></channel>
+</channels>
+
+<channels>
+
+<channel>    
+<name>TV Shows</name>	
+<thumbnail>http://s9.postimg.org/z5lv9o95b/tvshows.png</thumbnail>	
+<link>http://ignoreme</link>	
+<externallink>http://kodiland.co/kodi/tvshows.xml</externallink>	
+<fanart>http://s9.postimg.org/z5lv9o95b/tvshows.png</fanart>
+</channel>
+</channels>
+
+<channel>
+      <name>[COLOR lime]Kodiland IPTV Premium[/COLOR]</name>
+  <thumbnail>http://s30.postimg.org/6w9rk6qld/premium.png</thumbnail>
+<fanart>http://s30.postimg.org/6w9rk6qld/premium.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>premium.xml</externallink>
+</channel>
+
+  </channels>
+
+
+
+
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]EarthCam[/COLOR]</name>
+  <thumbnail>http://s10.postimg.org/m44v899ax/earthcam.png</thumbnail>
+<fanart>http://s10.postimg.org/m44v899ax/earthcam.png</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/FutuHDware/streams/master/WorldCams.m3u</externallink>
+</channel>
+  </channels>
+
+
+
+
+
