@@ -1,0 +1,451 @@
+#EXTM3U
+#EXTINF:-1,RTK 
+http://akamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
+#EXTINF:-1,RTK 
+htt://pakamai127.tibo.tv/rtk/timeshift_rel-20.m3u8
+#EXTINF:-1,RTK 
+http://str105mb.setplex.net:1935/str2iosmd5/rtk_232_4dfaa/HasBahCa.m3u8
+#EXTINF:-1,KlanKosova  
+http://str105mb.setplex.net:1935/str2iosmd5/10ios_klankosova_56468946/chunklist_w1341905160.m3u8
+#EXTINF:-1,Klankosova  
+http://4.31.30.135:1935/str2iosmd5/10ios_klankosova_56468946/playlist.m3u8
+#EXTINF:-1,3 musik hd
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4237.m3u8
+
+#EXTINF:-1,ARTA NEWA
+http://84.22.48.253:89/artanews/mono.m3u8
+#EXTINF:-1,NEWA TV
+rtmp://84.22.44.225:1935/live/newstv.stream
+#EXTINF:-1,ORAN NEWA hd 
+http://81.7.13.162/hls/oranews/index.m3u8
+#EXTINF:-1,Tring Shqip
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4219.m3u8
+#EXTINF:-1,Tring Max
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4223.m3u8
+#EXTINF:-1,Tring Life
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4224.m3u8
+
+#EXTINF:-1,Tring Super
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4218.m3u8
+
+#EXTINF:-1,Tring fantasy
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4230.m3u8
+#EXTINF:-1,Tring Jolly HD
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4227.m3u8
+
+#EXTINF:-1,Tring World
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4213.m3u8
+
+#EXTINF:-1,Tring History
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4228.m3u8
+
+#EXTINF:-1,Explorer History
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4204.m3u8
+
+#EXTINF:-1,Explorer Shkence
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4203.m3u8
+
+#EXTINF:-1,Explorer Natyra
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4202.m3u8
+#EXTINF:-1,Alb uk Plus Movei
+http://188.138.17.8:1935/albuk/albukplus.stream/chunklist_w1655468361.m3u8
+
+#EXTINF:-1,Alb uk 
+http://188.138.17.8:1935/albuk/albuk.stream/chunklist_w1166023057.m3u8
+
+#EXTINF:-1,Alb uk Music
+http://188.138.17.8:1935/albuk/albmus.stream/chunklist_w1831208246.m3u8
+
+#EXTINF:-1,Albinfo
+http://str105mb.setplex.net:1935/str2iosmd5/stralbinfo_2654_dfs/chunklist_w1010858367.m3u8
+#EXTINF:-1,TV Teuta
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_tvteuta_34654675644/HasBahCa.m3u8
+#EXTINF:-1,tv besa
+http://84.22.48.253:89/besa/mono.m3u8
+
+#EXTINF:-1,TV 2 RTV BESA
+rtmp://rtvbesa.shqiptv.org/8028/8028
+#EXTINF:-1,TVSH
+http://portal.rapidiptv.com:8080/live/mondi/mondi/6090.m3u8
+#EXTINF:-1,TV era_1
+http://fms.zulu.mk:1935/zulu/era_1/playlist.m3u8?wowzasessionid=1103631814
+
+#EXTINF:-1,Vizionplus
+rtmp://live.vizionplus.tv:1935/live/livestream2
+#EXTINF:-1,Tv_Koha
+rtmp://live.tvkoha.tv/live/koha/livestream
+#EXTINF:-1,rrokumtv
+rtmp://82.114.65.202/live/rrokumtv
+
+#EXTINF:-1,RTCG SAT rtsp	
+rtsp://beotelmedia.beotel.net/tvcg
+#EXTINF:-1,Alsat M
+http://fms.zulu.mk:554/zulu/alsat_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:-1,Mktv 2 (Mrt2)
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+#EXTINF:-1,Mrt sat 1
+http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/chunklist_w1332044992.m3u8
+
+#EXTINF:-1,MRT SAT 2
+http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt2-sat/chunklist_w343927821.m3u8
+
+#EXTINF:-1,mrt
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/7d1af6a31fb553c64cc016c50cb055a2/chunklist_w1928040576_b1196000.m3u8
+
+#EXTINF:-1,MRTM
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+
+#EXTINF:-1,tvdukagjini
+http://str105mb.setplex.net:1935/str2iosmd5/20ios_tvdukagjini_2233555/chunklist_w1245288981.m3u8
+
+
+#EXTINF:-1,tvsyrivis
+http://str105mb.setplex.net:1935/str2iosmd5/21ios_tvsyrivis_13226654/chunklist_w1684150415.m3u8
+
+
+ 
+#EXTINF:-1,a1report
+rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report 
+#EXTINF:-1,folkplus
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_folkplus_34564765/chunklist_w1100658102.m3u8
+
+#EXTINF:-1,stvfolk
+http://str105mb.setplex.net:1935/str2iosmd5/11ios_stvfolk_32236215/chunklist_w319795181.m3u8
+
+#EXTINF:-1,TVKopliku
+http://str105mb.setplex.net:1935/str2iosmd5/tvkop3542121/chunklist_w1712611958.m3u8
+
+#EXTINF:-1,rozafa
+http://str105mb.setplex.net:1935/str2iosmd5/7ios_rozafa_65226289/playlist.m3u8
+
+#EXTINF:-1,Jug
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8?wowzasessionid=2133277424
+
+
+#EXTINF:-1,Tring Tring
+http://portal.rapidiptv.com:8080/live/mondi/mondi/4215.m3u8
+#EXTINF:-1,TV 4 Sweden
+http://tv4live-i.akamaihd.net/hls/live/200284/akamaihls2/wifi1500_akamaihls2.m3u8
+#EXTINF:-1,Kanal 10 se
+rtmp://cdn-kanal10.crossnet.net/kanal10/mpegts.stream 
+
+
+#EXTINF:-1,TV 2 Bonholm DK
+rtmp://itv08.digizuite.dk/tv2b/ch1 
+
+
+#EXTINF:-1,FOX ACTION HD
+http://wcm777.la/tp.php?ch=416&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,FOX CINEMAR
+http://wcm777.la/tp.php?ch=481&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,FOX MOVES HD
+http://wcm777.la/tp.php?ch=417&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,FOX LIFT
+http://wcm777.la/tp.php?ch=271&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,FOX CLASICS
+http://wcm777.la/tp.php?ch=424&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,CINEMAX
+http://wcm777.la/tp.php?ch=481&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Fox_Action hd
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Fox_Moves HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts
+
+
+
+#EXTINF:-1,Fox_Cinema
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Fox_1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,Fox
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Fox_Clasics
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Fox_Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,Disney XD
+http://wcm777.la/tp.php?ch=322&cl=3&k=mariocs.m3u8
+#EXTINF:-1,NICK Junior
+http://wcm777.la/tp.php?ch=310&cl=3&k=mariocs.m3u8
+#EXTINF:-1,Disney Channal
+rtmp://178.16.220.163:1935/live/channeldisney 
+#EXTINF:-1,GOLDEN HD BARN
+http://wcm777.la/tp.php?ch=436&cl=3&k=mariocs.m3u8
+#EXTINF:-1,Disnep Channal
+http://wcm777.la/tp.php?ch=312&cl=5&k=mariocs.m3u8
+
+#EXTINF:-1,Disnep Junior
+http://wcm777.la/tp.php?ch=308&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://wcm777.la/tp.php?ch=317&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Nick HD
+http://wcm777.la/tp.php?ch=315&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Nick Toons
+http://wcm777.la/tp.php?ch=314&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://wcm777.la/tp.php?ch=320&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Discavery Kids
+http://wcm777.la/tp.php?ch=303&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Boomerang
+http://wcm777.la/tp.php?ch=324&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Toocast
+http://wcm777.la/tp.php?ch=328&cl=3&k=mariocs.m3u8
+
+
+
+#EXTINF:-1,GOLDEN EDGE
+http://wcm777.la/tp.php?ch=484&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,FILM ZONE HD
+http://wcm777.la/tp.php?ch=440&cl=3&k=mariocs.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://wcm777.la/tp.php?ch=492&cl=3&k=mariocs.m3u8
+#EXTINF:-1,NETGEO WILD
+
+http://wcm777.la/tp.php?ch=355&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://84.238.227.17:1234/udp/239.130.50.65:9001
+
+#EXTINF:-1,ANIMAL PLANET
+http://wcm777.la/tp.php?ch=373&cl=3&k=mariocs.m3u8
+#EXTINF:-1,H_History
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,History H
+http://84.238.227.17:1234/udp/239.130.50.66:9001
+
+#EXTINF:-1,HISTORY HD
+http://wcm777.la/tp.php?ch=353&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Viasat Explore
+http://195.78.244.219:10000/udp/239.0.3.30:1234
+
+#EXTINF:-1,Viasat History
+http://195.78.244.219:10000/udp/239.0.3.31:1234
+
+#EXTINF:-1,Viasat Nature
+http://195.78.244.219:10000/udp/239.0.3.28:1234
+
+#EXTINF:-1,DISCOVERY CHANNAL
+http://wcm777.la/tp.php?ch=371&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,Discaver World
+http://84.238.227.17:1234/udp/239.130.50.60:9001
+
+#EXTINF:-1,DISCOVERY INVESTIGACION
+http://wcm777.la/tp.php?ch=263&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://wcm777.la/tp.php?ch=377&cl=3&k=mariocs.m3u8
+#EXTINF:-1,National Geographi
+http://84.238.227.17:1234/udp/239.130.50.57:9001
+
+#EXTINF:-1,DISCAVERY THEATER HD
+http://wcm777.la/tp.php?ch=351&cl=3&k=mariocs.m3u8
+#EXTINF:-1,DISCAVERY SCIENCE
+http://wcm777.la/tp.php?ch=381&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,DISCAVERY CIVILIZATION
+http://wcm777.la/tp.php?ch=382&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,DISCAVER TURBO
+http://wcm777.la/tp.php?ch=383&cl=3&k=mariocs.m3u8
+
+#EXTINF:-1,History H
+http://89.248.172.57:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8
+
+#EXTINF:-1,Nat Geo HD
+http://89.248.172.57:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8
+
+#EXTINF:-1,CINEMAX
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,CINE CANAL
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?supertvlat=%2F.ts
+
+
+#EXTINF:-1,CINE CANAL+
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?supertvlat=%2F.ts
+
+
+#EXTINF:-1,FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,FOX MOVES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?supertvlat=%2F.ts
+#EXTINF:-1,FOX CLASICS
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?supertvlat=%2F.ts
+
+#EXTINF:-1,HBO Plus
+rtmp://109.200.202.124/live/hboplus 
+#EXTINF:-1,HBO 2
+rtmp://109.200.202.124/live/hbo2 
+#EXTINF:-1,HBOComedy
+rtmp://178.16.220.163:1935/live/hbocom
+#EXTINF:-1,HBO Family
+rtmp://109.200.202.124/live/hbofamily 
+
+#EXTINF:-1,RTS 1
+rtsp://195.252.113.40/rts
+#EXTINF:-1,RTS
+mmsh://rts.videostreaming.rs/rts
+#EXTINF:-1, RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1,STV Osijek
+mms://89.201.164.181/stv
+#EXTINF:-1,RTCG
+mms://beotelmedia.beotel.net/tvcg
+#EXTINF:-1,RTV 1
+rtsp://212.200.255.151/rtv1
+#EXTINF:-1,RTV 
+rtsp://212.200.255.151/rtv2
+#EXTINF:-1,PINK 3 INFO
+http://str108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/balkansatnet.m3u8
+#EXTINF:-1,Pink Premium
+http://str108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink Reality
+http://str108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,PinkFamily
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/chunklist.m3u8
+#EXTINF:-1,pink Zabava
+http://str108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink Horror
+http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink Soap
+http://str108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink World
+http://str108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/balkansatnet.m3u8
+#EXTINF:-1,PINK FOLK 1
+http://str108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink Music 1
+http://str108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,Pink Kids
+http://str108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/balkansatnet.m3u8
+#EXTINF:-1,ATV
+http://yayin5.canlitv.com:1935/live/atv/chunklist_w193459965.m3u8
+#EXTINF:1,turkey kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1,START TV
+http://yayin5.canlitv.com:1935/live/startv/chunklist_w1841629595.m3u8
+
+#EXTINF:-1,showtv
+http://mn-l.mncdn.com/showtv/showtv2/chunklist_w1559858084.m3u8
+#EXTINF:-1,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1,TRT1HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-p.m3u8
+#EXTINF:-1,TRTHABERHD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-b.m3u8
+#EXTINF:1,turkey kanal 7
+http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w181027992.m3u8
+#EXTINF:-1,TV 8 
+http://yayin6.canlitv.com:1935/live/tv8/chunklist_w1674021810.m3u8
+#EXTINF:1,turkey ANS TV1
+http://ans-ng.ercdn.com/ans/live/anstv1.m3u8
+#EXTINF:1,turkey ZAMAN TV
+http://mn-i.mncdn.com/zaman_live3/live/chunklist_w987147857.m3u8
+#EXTINF:1,turkey WLKE HD
+http://livetr.gostream.nl/ulketvhq/ulketvhq/chunklist_w784946094.m3u8
+#EXTINF:1,turkey 3bs tv
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/chunklist.m3u8
+#EXTINF:-1,TRTTURK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-b.m3u8
+
+#EXTINF:-1,TRTARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200_av-b.m3u8
+
+#EXTINF:-1,TRTMUZIK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_700_av-p.m3u8
+
+#EXTINF:1,germany 2 seavus tv
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,germany 3 a
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/chunklist_b2192000_slGER.m3u8?bitrate=800
+#EXTINF:1,germany 5 ndr hd
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1,germany 6 check ems 1
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,germany 7
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
+#EXTINF:1,germany 8 tvo
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:1,germany 9 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,germany 10 mo
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#EXTINF:1,germany disney_channel
+http://c001.p104.edgesuite.net/i/c001/disney_channel_de_1@97396/index_1300_av-p.m3u8
+#EXTINF:1,germany NICKELODEON
+http://c001.p105.edgesuite.net/i/c001/nickcc_1@97455/index_1300_av-p.m3u8
+#EXTINF:1,catinetwork
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/chunklist.m3u8
+#EXTINF:-1,tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1,WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,daserste 1
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,austria24
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1,ndrfs
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+
+#EXTINF:-1,daserste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8
+#EXTINF:-1,wdrfs
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+
+#EXTINF:-1,Blomberg
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+#EXTINF:-1,Wlke HD Turk
+http://livetr.gostream.nl/ulketvhq/ulketvhq/chunklist_w541273741.m3u8
+
+#EXTINF:-1,Zaman tv tyrk
+http://mn-i.mncdn.com/zaman_live3/live/chunklist_w1288131797.m3u8
+
+
+#EXTINF:-1,ADR
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-p.m3u8
+
+#EXTINF:-1,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-p.m3u8
+
+#EXTINF:-1,NDR HD
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/index_3776_av-p.m3u8
+#EXTINF:-1,ATV
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1 
+#EXTINF:-1,Baden TV
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1,servustvhd
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8
+
+#EXTINF:-1,TVO tvoberfranken
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+
+
+#EXTINF:-1,tagesschau
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+#EXTINF:-1,A
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
